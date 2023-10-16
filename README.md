@@ -14,3 +14,11 @@
 - Backend : PHP MySql
 - IDE : VS Code
 - [Source Code](https://github.com/VrushankBardolia/cafe-website-php.git)
+
+---
+### Note It
+- Type : Mobile Application
+- Frontend : Flutter
+- Backend : Hive
+- IDE : Android Studio
+- [Source Code](https://github.com/VrushankBardolia/notes_flutter.git)
