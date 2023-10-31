@@ -32,3 +32,11 @@
 - IDE : Android Studio
 - [Source Code](https://github.com/VrushankBardolia/todo-flutter.git)
 - [APK](https://drive.google.com/drive/folders/1apejZTphLDEDy_Fyx5YNF4qL2zJ3lhlq?usp=drive_link)
+  
+---
+### Notes
+- Type : Mobile Application
+- Frontend : Flutter
+- Backend : Firebase
+- IDE : Android Studio
+- [Source Code](https://github.com/VrushankBardolia/todo-flutter.git) (Work In Progresss❗)
