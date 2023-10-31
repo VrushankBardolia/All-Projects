@@ -39,4 +39,4 @@
 - Frontend : Flutter
 - Backend : Firebase
 - IDE : Android Studio
-- [Source Code](https://github.com/VrushankBardolia/todo-flutter.git) (Work In Progresss❗)
+- [Source Code](https://github.com/VrushankBardolia/notes.git) (Work In Progresss❗)
